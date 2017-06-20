@@ -17,7 +17,7 @@
 <h3>UVa練習</h3>
 <table>
   <tr>
-    <td rowspan="2"><a href="http://google.com.tw">UVa100</a></td>
+    <td rowspan="2"><a href="https://github.com/TommyChap/UVa_Exercise/tree/master/UVa100">UVa100</a></td>
     <td width="15%">UVa題目</td>
     <td width="85%">https://uva.onlinejudge.org/index.php?option=com_onlinejudge&amp;Itemid=8&amp;page=show_problem&amp;problem=36</td>
   </tr>
