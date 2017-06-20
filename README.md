@@ -1,5 +1,20 @@
 # UVa_Exercise
-UVa練習
+<h3>系統配置</h3>
+<table>
+  <tr>
+    <td width="15%">OS</td>
+    <td width="85%">Ubuntu 14.04.5</td>
+  </tr>
+  <tr>
+    <td width="15%">編譯器</td>
+    <td width="85%">GCC 4.8.4</td>
+  </tr>
+  <tr>
+    <td width="15%">編輯器</td>
+    <td width="85%">Vim</td>
+  </tr>
+</table>
+<h3>UVa練習</h3>
 <table>
   <tr>
     <td rowspan=2><a href="http://google.com.tw">UVa100</a></td>
