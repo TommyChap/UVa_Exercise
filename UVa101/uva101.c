@@ -10,6 +10,8 @@ int main(void){
 			scanf("%s",&cmd);
 			switch(cmd[0]){
 				case 'm':
+					scanf("%s",&cmd2);
+					switch(cmd2[0])
 					break;
                                 case 'p':
                                         break;
