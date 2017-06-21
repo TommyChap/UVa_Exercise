@@ -17,6 +17,11 @@ int main(void){
 					}
 					break;
                                 case 'p':
+					scanf("%s",&cmd2);
+					switch(cmd2[1]){
+						case 'n':
+						case 'v':
+					}
                                         break;
                                 case 'q':
 					sw = 0;

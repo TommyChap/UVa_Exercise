@@ -13,14 +13,18 @@ int main(void){
 					scanf("%s",&cmd2);
 					switch(cmd2[1]){
 						case 'n':
+							break;
 						case 'v':
+							break;
 					}
 					break;
                                 case 'p':
 					scanf("%s",&cmd2);
 					switch(cmd2[1]){
 						case 'n':
+							break;
 						case 'v':
+							break;
 					}
                                         break;
                                 case 'q':
