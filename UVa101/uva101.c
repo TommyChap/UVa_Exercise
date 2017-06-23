@@ -150,7 +150,7 @@ int main(void){
 					}
                                         break;
                                 case 'q':
-					sw = 0;
+					sw = 0;;
 					break;
 			}
 		}
