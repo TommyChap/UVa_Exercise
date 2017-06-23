@@ -1,15 +1,48 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void sort(short arr[],short len){
+	short i, j, temp;
+	for (i = 0; i < len - 1; i++){
+		for (j = 0; j < len - 1 - i; j++){
+			if (arr[j] < arr[j + 1]) {
+				temp = arr[j];
+				arr[j] = arr[j + 1];
+				arr[j + 1] = temp;
+			}
+		}
+	}
+}
+
 int main(void){
-        short box[30][10],k,n,i,;
+        short box[30][10],size[30],k,n,i,j;
         
-        while(scanf("%ld %ld %ld %ld %ld %ld %ld %ld %ld"
-        		,b,g,c,b+1,g+1,c+1,b+2,g+2,c+2) != EOF){
-        	for(i=0;i<6;i++){
-        		size[i] = Count(i);
+        while(scanf("%hd %hd",&k,&n) != EOF){
+        	for(i=0;i<30;i++){
+        		for(j=0;j<10;j++){
+        			box[i][j] = 0;
+        		}
         	}
-        	printf("%s %ld\n",string[Min()],size[Min()]);
+        	for(i=0;i<k;i++){
+        		for(j=0;j<n;j++){
+        			scanf("%hd",&box[i][j]);
+        		}
+        		sort(box[i],n);
+        		/*for(j=0;j<n;j++){
+        			printf("%hd ",box[i][j]);
+        		}
+       			printf("\n");*/
+        	}
+        	for(i=0;i<k;i++){
+        		for(j=0;j<n;j++){
+        			scanf("%hd",&box[i][j]);
+        		}
+        		sort(box[i],n);
+        		/*for(j=0;j<n;j++){
+        			printf("%hd ",box[i][j]);
+        		}
+       			printf("\n");*/
+        	}
 	}
 	return 0;
 }
