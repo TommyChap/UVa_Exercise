@@ -38,7 +38,7 @@
   </tr>
   <!--UVa102-->
   <tr>
-    <td rowspan="2"><a href="https://github.com/TommyChap/UVa_Exercise/tree/master/UVa101">UVa102</a></td>
+    <td rowspan="2"><a href="https://github.com/TommyChap/UVa_Exercise/tree/master/UVa102">UVa102</a></td>
     <td width="15%">UVa題目</td>
     <td width="85%">https://uva.onlinejudge.org/index.php?option=com_onlinejudge&amp;Itemid=8&amp;page=show_problem&amp;problem=38</td>
   </tr>
@@ -48,7 +48,7 @@
   </tr>
   <!--UVa103-->
   <tr>
-    <td rowspan="2"><a href="https://github.com/TommyChap/UVa_Exercise/tree/master/UVa101">UVa103</a></td>
+    <td rowspan="2"><a href="https://github.com/TommyChap/UVa_Exercise/tree/master/UVa103">UVa103</a></td>
     <td width="15%">UVa題目</td>
     <td width="85%">https://uva.onlinejudge.org/index.php?option=com_onlinejudge&amp;Itemid=8&amp;page=show_problem&amp;problem=39</td>
   </tr>
